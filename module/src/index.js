@@ -41,7 +41,7 @@ const CloudFunctionNode = Noodl.defineNode({
   name: "net.noodl.parse-cloud-function",
   displayName: "Parse Cloud Function",
   useInputAsLabel: "functionName",
-  docs: "https://docs.noodl.net/nodes/data/cloud-data/cloud-function",
+  docs: "https://docs.noodl.net/library/modules/parse-cloud-function/",
   initialize: function () {
     this._internal.paramsValues = {};
   },
